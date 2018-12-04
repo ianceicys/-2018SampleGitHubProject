@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.1.6" />
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.2.0" />
     <PackageReference Include="System.Net.Http.Formatting.Extension" Version="5.2.3" />
   </ItemGroup>
 
